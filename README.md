@@ -72,11 +72,6 @@ Run the main script to start the game:
 - Python - The programming language used
 
 
-## License
-
-- Replace `Bodugusateesh123` with your actual GitHub username and ensure that the paths to the images and other resources are correct.
- 
-
 
 
 
